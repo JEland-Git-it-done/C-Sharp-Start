@@ -1,0 +1,13 @@
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.exe
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.deps.json
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.runtimeconfig.json
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.runtimeconfig.dev.json
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.dll
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CStart.pdb
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.csprojAssemblyReference.cache
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.AssemblyInfoInputs.cache
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.AssemblyInfo.cs
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.csproj.CoreCompileInputs.cache
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.dll
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.pdb
+C:\Users\jedel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CStart.genruntimeconfig.cache
