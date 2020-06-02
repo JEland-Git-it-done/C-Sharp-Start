@@ -12,6 +12,9 @@ namespace Chapter1
             Console.WriteLine(total_cycle_count);
             Console.WriteLine(total_cycle_count + 3);
             System.Console.WriteLine("The total number of cycles is {0}", total_cycle_count);
+            string var1 = "this";
+            int var2 = 2;
+            System.Console.WriteLine("Using embeded variables like {0} is useful for debugging dynamic text like var{1}, and you cant declare variables inside of the string argument", var1, var2 );
 
         }
     }
