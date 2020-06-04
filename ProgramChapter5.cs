@@ -22,6 +22,21 @@ namespace CStart
             BooleanMethod();
             ProgramChapter5 prog = new ProgramChapter5();
             prog.PrintDateAndTime();
+            int currentHour = prog.GetHour();
+            string now;
+            if (currentHour < 12)
+            {
+                now = "" + currentHour + " am";
+            } else
+            {
+                now = "" + currentHour + " pm";
+            }
+
+            Console.WriteLine($"The current hour is {now}");
+            //Alternate version using method invokation
+            ProgramChapter5 prog2 = new ProgramChapter5();
+            Console.WriteLine("Hour: {0}", prog2.GetHour());
+            prog2.MethodWithLocalFunction();
         }
 
         static void ShowTemperateDetails()
@@ -48,6 +63,13 @@ namespace CStart
                 i++; 
             }
         }
+        int GetHour()
+        {
+            DateTime dt = DateTime.Now;
+            int hour = dt.Hour;
+
+            return hour;
+        }
 
         static void BooleanMethod()
         {
@@ -70,6 +92,16 @@ namespace CStart
         {
             DateTime dt = DateTime.Now;
             Console.WriteLine($"{dt}");
+        }
+
+        public void MethodWithLocalFunction()
+        {
+            int MyLocalFunction(int z1)
+            {
+                return z1 * 5;
+            }
+            int results = MyLocalFunction(5);
+            Console.WriteLine($"Results of local function call: {results}");
         }
     }
 }
